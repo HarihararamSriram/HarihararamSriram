@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @Harihararam Sriram
-## 👀 I’m interested in Website development and machine learning.
+## 👀 I’m interested in Website development and machine learning. 
+## ♦ I have worked on projects with React JS, Django, Flask and DRF
 ## 🌱 I’m currently learning Information Technology (BTech) at PSG College of Technology.
 ## 📫 How to reach me -> harisriram2002@gmail.com 
 
