@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @Harihararam Sriram
-## 👀 I’m interested in Website development and machine learning. 
-## ♦ I have worked on projects with React JS, Django, Flask and DRF
-## 🌱 I’m currently learning Information Technology (BTech) at PSG College of Technology.
+## 👋 Hello, I’m @Harihararam Sriram
+## 👀 I’m interested in Fullstack Development and Machine Learning. 
+## ♦ I have worked on projects with React JS, Next JS, Nest JS, Django, Flask and DRF
+## 🌱 I’m an IT Undergraduate from PSG College of Technology.
 ## 📫 How to reach me -> harisriram2002@gmail.com 
 
 <!---
